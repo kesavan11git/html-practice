@@ -1,2 +1,0 @@
-# html-practice
-practice session
